@@ -32,7 +32,7 @@ function numberToString(num) {
 
 ## Skills
 
-- **HTML**
+- **HTML** (basic)
 - **CSS:** (basic)
 - **JavaScript:** (basic)
 - **GitHub:** (basic)
