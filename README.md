@@ -1,1 +1,1 @@
-https://github.com/Flow192/rsschool-cv.git/cv
+https://github.com/Flow192/rsschool-cv.git/cv.md
